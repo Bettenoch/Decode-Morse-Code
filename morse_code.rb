@@ -28,7 +28,7 @@
 }
 def decode_letter(letter)
   @current_letter = @letter_symbols[letter]
-  @current_letter
+  print "#{@current_letter} "
 end
 
 def decode_word(word)
