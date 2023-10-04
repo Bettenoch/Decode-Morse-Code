@@ -179,7 +179,7 @@ This project is deployed at github pages you can clone it here. [Please click to
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Bettenoch/vet_clinic/issues).
+Feel free to check the [issues page](https://github.com/Bettenoch/Decode-Morse-Code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,5 +197,5 @@ I would like to thank the Microverse full-stack curriculum for the inspiration a
 
 ## 📝 License <a name="license"></a>
 
-This project is under [MIT](https://github.com/ethred/clinic_db/blob/Development/LICENSE)
+This project is under [MIT](https://github.com/Bettenoch/Decode-Morse-Code/blob/DevOps/LICENSE)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
