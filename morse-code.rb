@@ -33,7 +33,7 @@
   end
   
 
-  decode_char(".-")
-  decode_word("-- -.--")
-  decode_message("-- -.--   -. .- -- .")
-  decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+  decode_letter(".-")
+  # decode_word("-- -.--")
+  # decode_message("-- -.--   -. .- -- .")
+  # decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
