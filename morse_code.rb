@@ -28,7 +28,7 @@
 }
 def decode_letter(letter)
   @current_letter = @letter_symbols[letter]
-  print "#{@current_letter} "
+  @current_letter
 end
 
 def decode_word(word)
@@ -47,7 +47,7 @@ def decode_message(message)
     decode_word(word)
   end
 end
-decode_letter('.-')
+
 decode_word('-- -.--')
 decode_message('-- -.--   -. .- -- .')
 decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
